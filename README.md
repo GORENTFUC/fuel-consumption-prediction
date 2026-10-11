@@ -71,3 +71,14 @@ Una asociación estadística no demuestra por sí sola una relación causal.
    ```
 
 4. Ejecutar todas las celdas.
+
+## Disponibilidad
+
+- Repositorio: [github.com/GORENTFUC/fuel-consumption-prediction](https://github.com/GORENTFUC/fuel-consumption-prediction.git)
+- Dataset (Kaggle): [Ship Fuel Efficiency](https://www.kaggle.com/code/oumaimagasmi/ship-fuel-efficiency/input)
+
+## Referencias
+
+- [jose-llanos/TecnicasAnalisisEstadistico](https://github.com/jose-llanos/TecnicasAnalisisEstadistico)
+- AprendeIA con Ligdi Gonzalez. (2019, julio 5). *REGRESIÓN LOGÍSTICA - PRÁCTICA | #38 Curso Machine Learning con Python* [Video recording]. https://www.youtube.com/watch?v=rUHZb_TzWVs
+- Llanos Mosquera, J. M. (s. f.). *TAE-Unidad de aprendizaje 4: Regresión Lineal*. Recuperado 10 de octubre de 2026, de https://virtual.corhuila.edu.co/uh/mod/resource/view.php?id=124121
